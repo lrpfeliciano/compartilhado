@@ -1,0 +1,12 @@
+#menu {
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+ }
+
+#menu li { display: inline; }
+
+footer p {
+	text-align: center;
+}
